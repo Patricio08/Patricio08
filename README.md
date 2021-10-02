@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Daniel Patrício
+- 👀 Graduate from Instituto Superior de Engenharia de Lisboa in Computer Science and Computer Engineering
+- 💞️ Open to new projects
+- 📫 How to reach me <https://www.linkedin.com/in/daniel-patricio8> or <danielpatricio28@gmail.com>
